@@ -13,7 +13,7 @@
 
 ## 下载代码
 ```shell
-git clone 
+git clone https://github.com/bfsong/spring-websocket-demo
 ```
 
 ## 运行
